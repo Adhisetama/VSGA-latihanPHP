@@ -1,0 +1,19 @@
+
+.databuku .coverbuku {
+    background-color: lightgray;
+    border-radius: 3px;
+    box-shadow: 2px 2px 3px 1px rgba(0,0,0,.3);
+    height: 300px;
+}
+
+.databuku .tabeldatabuku {
+    margin-top: 10px;
+}
+
+.databuku .tabeldatabuku .data {
+    font-weight: 500;
+}
+
+.databuku .editbutton {
+    margin-top: 20px;
+}
